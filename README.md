@@ -36,5 +36,11 @@ Step 5: Install a kernel for the Virtual Environment
 Step 6: Run Jupyter Notebook
 
     jupyter notebook
+    
+    
+    
+# To Run The Web Application
+
+    streamlit run app.py
 
    
