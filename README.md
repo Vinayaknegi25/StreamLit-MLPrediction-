@@ -9,7 +9,9 @@ Matplotlib
 Pickle
 
 Step 1: Create a virtual environemnt Using Conda using
-    '''conda create -n ml python=3.9'''
+    '''
+    conda create -n ml python=3.9
+    '''
     
 Step 2: Acvitvate the virtual environment
     '''conda activate ml'''
