@@ -1,12 +1,12 @@
 # StreamLit-MLPrediction
 # A Machine Learning model that uses various machine learning algorithms on real-world data to predict salary of a software engineers based on Country, Education and Years of Experience
 
-***Prerequisites
-Python3
-Streamlit
-Pandas 
-Matplotlib
-Pickle***
+***Prerequisites***
+***Python3***
+***Streamlit***
+***Pandas***
+***Matplotlib***
+***Pickle***
 
 Step 1: Create a virtual environemnt Using Conda using
 
