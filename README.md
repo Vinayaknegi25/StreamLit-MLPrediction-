@@ -42,5 +42,9 @@ Step 6: Run Jupyter Notebook
 # To Run The Web Application
 
     streamlit run app.py
+    
+Note: It is recommended to install watchdog using the command before running the above command.
+    
+    pip install watchdog
 
    
