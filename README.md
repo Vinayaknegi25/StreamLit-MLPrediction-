@@ -28,7 +28,7 @@ Step 5: Install a kernel for the Virtual Environment
     
     ipython kernel install -kuser --name=ml
      
-Steo 6: Run Jupyter Notebook
+Step 6: Run Jupyter Notebook
 
     jupyter notebook
 
