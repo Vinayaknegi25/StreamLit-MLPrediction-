@@ -6,7 +6,7 @@
 ## Streamlit
 ## Pandas 
 ## Matplotlib
-## Pickle
+*** Pickle ***
 
 Step 1: Create a virtual environemnt Using Conda using
 
