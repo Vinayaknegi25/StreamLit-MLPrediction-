@@ -1,5 +1,5 @@
 # StreamLit-MLPrediction
-# A Machine Learning model that uses various machine learning algorithms on real-world data to predict salary of a software engineers based on Country, Education and Years of Experience. This model was created using Real world data sourced from StackOverflow programmers survey.
+# A Machine Learning model that uses various machine learning algorithms to predict salary of a software engineers based on Country, Education and Years of Experience. This model was created using Real-world data sourced from StackOverflow programmers survey.
 
 ***Prerequisites***
 
