@@ -9,21 +9,21 @@ Matplotlib
 Pickle
 
 Step 1: Create a virtual environemnt Using Conda using
-    conda create -n ml python=3.9
+    '''conda create -n ml python=3.9'''
     
 Step 2: Acvitvate the virtual environment
-    conda activate ml
+    '''conda activate ml'''
 
 Step 3: Installl Streamlit 
-     conda install streamlit
+    '''conda install streamlit'''
  
 Step 4: Install matplotlib and scikit learn
-     conda install matplotlib scikit-learn
+    '''conda install matplotlib scikit-learn'''
      
 Step 5: Install a kernel for the Virtual Environment
-     ipython kernel install -kuser --name=ml
+    '''ipython kernel install -kuser --name=ml'''
      
 Steo 6: Run Jupyter Notebook
-     jupyter notebook
+    '''jupyter notebook'''
 
    
